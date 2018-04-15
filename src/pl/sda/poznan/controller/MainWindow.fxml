@@ -12,7 +12,7 @@
   <top>
     <MenuBar>
       <Menu text="Game">
-        <MenuItem text="New game" onAction="#connectToServer"/>
+        <MenuItem text="New game" onAction="#connectToServerAction"/>
         <SeparatorMenuItem/>
         <MenuItem text="Exit"/>
       </Menu>
